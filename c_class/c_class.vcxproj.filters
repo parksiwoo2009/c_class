@@ -9,10 +9,6 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="리소스 파일">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
     <Filter Include="소스 파일\day1">
       <UniqueIdentifier>{8574fa55-5d50-4eb8-9dfc-6c60225ef309}</UniqueIdentifier>
     </Filter>
@@ -21,6 +17,13 @@
     </Filter>
     <Filter Include="소스 파일\day3">
       <UniqueIdentifier>{94822559-56e3-4ab4-a072-63996fc2f7ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day4">
+      <UniqueIdentifier>{3ff5e26c-cc39-4c1f-96f9-55580e619f92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -47,6 +50,15 @@
     </ClCompile>
     <ClCompile Include="상수.c">
       <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="자료형의 변환.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="언사인드.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="형식문자.c">
+      <Filter>소스 파일\day4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
