@@ -3,11 +3,11 @@ int main(void)
 {
 	int a, b;
 	char p;
-	printf("계산할 문자를 입력해주세요(+,-,*,/) : ");
-	scanf_s("%c", &p, 1);
-
 	printf("계산할 두 숫자를 입력해주세요 : ");
 	scanf_s("%d %d", &a,&b);
+	printf("계산할 문자를 입력해주세요(+,-,*,/) : ");
+	scanf_s(" %c", &p, 1);
+
 
 	
 	switch (p) {
