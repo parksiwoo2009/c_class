@@ -34,9 +34,6 @@
     <Filter Include="소스 파일\day7">
       <UniqueIdentifier>{afef23d5-378e-4951-8ce1-4e3b430cfe50}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\day8">
-      <UniqueIdentifier>{9ff630f6-7698-4148-bb0d-d727a4f73761}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\day9">
       <UniqueIdentifier>{42f9cc04-3a75-46a6-bb23-f8185009c9a2}</UniqueIdentifier>
     </Filter>
@@ -45,6 +42,12 @@
     </Filter>
     <Filter Include="소스 파일\day11">
       <UniqueIdentifier>{f0b7fff3-28b9-467d-bbde-767941ce4802}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day12">
+      <UniqueIdentifier>{8b9d8004-fb03-44ca-9d9f-a7fe2762e9c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day9\day8">
+      <UniqueIdentifier>{9ff630f6-7698-4148-bb0d-d727a4f73761}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -124,19 +127,19 @@
       <Filter>소스 파일\day7</Filter>
     </ClCompile>
     <ClCompile Include="배송비 중첩.if문.c">
-      <Filter>소스 파일\day8</Filter>
+      <Filter>소스 파일\day9\day8</Filter>
     </ClCompile>
     <ClCompile Include="스위치.c">
-      <Filter>소스 파일\day8</Filter>
+      <Filter>소스 파일\day9\day8</Filter>
     </ClCompile>
     <ClCompile Include="switch계산기.c">
-      <Filter>소스 파일\day8</Filter>
+      <Filter>소스 파일\day9\day8</Filter>
     </ClCompile>
     <ClCompile Include="증감 연산자.c">
       <Filter>소스 파일\day4</Filter>
     </ClCompile>
     <ClCompile Include="반복문while.c">
-      <Filter>소스 파일\day8</Filter>
+      <Filter>소스 파일\day9\day8</Filter>
     </ClCompile>
     <ClCompile Include="while문제.c">
       <Filter>소스 파일\day9</Filter>
@@ -182,6 +185,18 @@
     </ClCompile>
     <ClCompile Include="포인터와배열문제.c">
       <Filter>소스 파일\day11</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터배열.c">
+      <Filter>소스 파일\day12</Filter>
+    </ClCompile>
+    <ClCompile Include="이차원배열.c">
+      <Filter>소스 파일\day12</Filter>
+    </ClCompile>
+    <ClCompile Include="이차원배열구구단.c">
+      <Filter>소스 파일\day12</Filter>
+    </ClCompile>
+    <ClCompile Include="배열포인터.c">
+      <Filter>소스 파일\day12</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
